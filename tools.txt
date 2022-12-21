@@ -1,0 +1,17 @@
+anisble 
+pac-manager(asbru-CM)
+twinkle - IP telephone - SIP
+vim 
+flowblade
+simplevideorecorder 
+geary 
+texmaker 
+evernote 
+sublime text 3
+mysql-workbench
+brave webbrowser 
+firefox with ublock extension
+anydesk
+zoom
+rdesktop
+
