@@ -16,4 +16,13 @@ zoom
 rdesktop
 libvirt & virt-manager
 vnc viewer 
-
+audacity
+brave-browser
+net-tools
+mysql-client
+mysql-server
+mysql-workbench-community
+vlc
+wget
+whois
+youtube-dl
