@@ -26,3 +26,7 @@ vlc
 wget
 whois
 youtube-dl
+
+
+###Suggested
+https://github.com/zadam/trilium
