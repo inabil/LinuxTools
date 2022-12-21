@@ -5,7 +5,7 @@ vim
 flowblade
 simplevideorecorder 
 geary 
-texmaker 
+texmaker & textlive
 evernote 
 sublime text 3
 mysql-workbench
@@ -14,4 +14,6 @@ firefox with ublock extension
 anydesk
 zoom
 rdesktop
+libvirt & virt-manager
+vnc viewer 
 
