@@ -27,6 +27,7 @@ wget
 whois
 youtube-dl
 wireshark
+gnome-shell extensiton name "vitals" for status in top bar
 
 
 ###Suggested
