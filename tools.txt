@@ -28,7 +28,7 @@ whois
 youtube-dl
 wireshark
 gnome-shell extensiton name "vitals" for status in top bar
-
+goaccess - command line log analyzer for httpd and other log files. 
 
 ###Suggested
 https://github.com/zadam/trilium
