@@ -32,3 +32,10 @@ goaccess - command line log analyzer for httpd and other log files.
 
 ###Suggested
 https://github.com/zadam/trilium
+
+#Chat server for Linux 
+ejabberd (Whatapp is based on this software)
+https://docs.ejabberd.im/admin/installation/
+
+
+
