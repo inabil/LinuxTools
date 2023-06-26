@@ -38,5 +38,7 @@ https://github.com/zadam/trilium
 ejabberd (Whatapp is based on this software)
 https://docs.ejabberd.im/admin/installation/
 
+#imapsync 
+imapsync is the utility to sync emails from one server to another using bash script. 
 
 
